@@ -81,7 +81,6 @@ p.success {
 p.danger {
 	color: red;
 }
-
 /************ Navbar Css ************/
 nav.navbar {
   padding: 18px 0;
@@ -361,36 +360,29 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   text-align: center;
   width: 56%;
 }
-
-/* 🔥 FIXED NAV PILLS */
 .project .nav.nav-pills {
-  width: auto;
+  width: 72%;
   margin: 0 auto;
   border-radius: 50px;
   background-color: rgb(255 255 255 / 10%);
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding: 5px 10px;
+  overflow: hidden;
 }
 .project .nav.nav-pills .nav-item {
-  flex: 1;
-  min-width: max-content;
-  text-align: center;
-  margin: 5px;
+  width: 33.33333%;
 }
 .project .nav.nav-pills .nav-link {
   background-color: transparent;
-  border-radius: 30px;
-  padding: 14px 24px;
+  border-radius: 0;
+  padding: 17px 0;
   color: #fff;
-  font-size: 18px;
-  letter-spacing: 0.6px;
+  width: 100%;
+  font-size: 17px;
+  letter-spacing: 0.8px;
   font-weight: 500;
   position: relative;
   transition: 0.3s ease-in-out;
   text-align: center;
-  white-space: nowrap;
+  z-index: 0;
 }
 .project .nav.nav-pills .nav-link::before {
     content: "";
@@ -474,7 +466,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   z-index: -4;
 }
 
-/************ Contact Css ************/
+/************ Projects Css ************/
 .contact {
   background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
   padding: 60px 0 200px 0;
