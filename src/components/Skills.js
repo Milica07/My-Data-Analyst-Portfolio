@@ -36,11 +36,11 @@ export const Skills = () => {
                   <h5>Data Analytics</h5>
                 </div>
                 <div className="item">
-                  <img src={meter3} alt="Logo Design" />
-                  <h5>Cross-functional Cooperation”</h5>
+                  <img src={meter3} alt="Cross-functional Cooperation" />
+                  <h5>Cross-functional Cooperation</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Cross-functional Experience" />
+                  <img src={meter1} alt="Data Modeling" />
                   <h5>Data Modeling</h5>
                 </div>
               </Carousel>
