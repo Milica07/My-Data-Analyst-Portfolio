@@ -38,15 +38,19 @@ export const Projects = () => {
                   <h2>Deliverables</h2>
                   <p>These are the main responsibilities that define my role</p>
                   <Tab.Container id="projects-tabs" defaultActiveKey="first">
-                    <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
+                    <Nav 
+                      variant="pills" 
+                      className="nav-pills mb-5 justify-content-center align-items-center" 
+                      id="pills-tab"
+                    >
                       <Nav.Item>
-                        <Nav.Link eventKey="first">Analytics</Nav.Link>
+                        <Nav.Link eventKey="first" style={{ fontSize: "0.85rem" }}>Analytics</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
-                        <Nav.Link eventKey="second">Platform Mgmt</Nav.Link>
+                        <Nav.Link eventKey="second" style={{ fontSize: "0.85rem" }}>Platform Mgmt</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
-                        <Nav.Link eventKey="third">IT Admin</Nav.Link>
+                        <Nav.Link eventKey="third" style={{ fontSize: "0.85rem" }}>IT Admin</Nav.Link>
                       </Nav.Item>
                     </Nav>
                     <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
