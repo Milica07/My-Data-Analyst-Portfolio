@@ -36,28 +36,28 @@ export const Skills = () => {
               <h2>Skills & Responsibilities</h2>
               <p>
                 These are my main professional responsibilities and the skills I apply in my role.<br />
-                I focus on data visualization, platform coordination, system administration, and process improvement.
-              </p>
+                I support Corporate Security processes from the IT tools perspective and contribute to data-driven 
+                insights through data visualization, platform coordination, system administration, and tool ownership.              </p>
               <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                 <div className="item">
                   <img src={meter1} alt="Dashboards" />
                   <h5>Dashboards & Analytics</h5>
-                  <p>Creating Power BI dashboards for interactive reporting and data-driven insights.</p>
+                    <p>Developing Power BI dashboards that transform complex data into clear reports and support data-driven decision making.</p>
                 </div>
                 <div className="item">
                   <img src={meter2} alt="Platform Coordinator" />
                   <h5>Platform Coordination</h5>
-                  <p>Managing and enhancing the Property Protection platform, coordinating features and changes.</p>
+                    <p>Overseeing and optimizing the Property Protection platform, while coordinating feature enhancements and change requests.</p>
                 </div>
                 <div className="item">
                   <img src={meter3} alt="System Administration" />
                   <h5>System Administration</h5>
-                  <p>Managing Enablon System Security Module, access permissions, trainings, and reporting.</p>
+                  <p>Managing Enablon System Security Module.</p>
                 </div>
                 <div className="item">
                   <img src={meter1} alt="Data Quality" />
                   <h5>Data Quality & Visualization</h5>
-                  <p>Ensuring integrity and usability of security data while enabling actionable insights.</p>
+                  <p>Ensuring integrity and usability of corporate security data while enabling actionable insights.</p>
                 </div>
               </Carousel>
             </div>

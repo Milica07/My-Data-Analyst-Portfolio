@@ -56,8 +56,8 @@ export const Projects = () => {
                     <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
                       <Tab.Pane eventKey="first">
                         <p style={{ textAlign: "center", marginBottom: "30px" }}>
-                          These are my main Power BI dashboards demonstrating data visualization, analytics, and interactive reporting skills.
-                        </p>
+                          Created end-to-end corporate security dashboards from scratch, orchestrating a data pipeline to collect, transform, 
+                          and analyze data from diverse sources, and visualizing insights through Power BI.  </p>
                         <Row>
                           {projects.map((project, index) => (
                             <ProjectCard
@@ -69,9 +69,9 @@ export const Projects = () => {
                       </Tab.Pane>
                       <Tab.Pane eventKey="second">
                         <p>
-                          I partner with developers to design, enhance, and maintain the Property Protection platform - an IT solution for storing and managing 
-                          site security assessments. I coordinate feature and change request implementations to ensure alignment with asset protection processes, 
-                          while driving usability, data integrity, and meeting business needs.
+                            Collaborate with developers to design, enhance, and maintain the Property Protection platform—an IT solution for managing site security assessments. 
+                            Coordinate and support feature and change request implementations to ensure 
+                            alignment with property protection processes, while optimizing usability, data integrity, and business outcomes.
                         </p>
                       </Tab.Pane>
                       <Tab.Pane eventKey="third">
