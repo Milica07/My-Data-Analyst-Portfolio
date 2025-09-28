@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Data-Analyst-Portfolio/static/css/main.5d9fc4e9.css",
-    "main.js": "/My-Data-Analyst-Portfolio/static/js/main.97fbcf2e.js",
+    "main.js": "/My-Data-Analyst-Portfolio/static/js/main.e87681ca.js",
     "static/js/453.1c10c86a.chunk.js": "/My-Data-Analyst-Portfolio/static/js/453.1c10c86a.chunk.js",
     "static/media/color-sharp.png": "/My-Data-Analyst-Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/My-Data-Analyst-Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -27,11 +27,11 @@
     "static/media/arrow2.svg": "/My-Data-Analyst-Portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/My-Data-Analyst-Portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.5d9fc4e9.css.map": "/My-Data-Analyst-Portfolio/static/css/main.5d9fc4e9.css.map",
-    "main.97fbcf2e.js.map": "/My-Data-Analyst-Portfolio/static/js/main.97fbcf2e.js.map",
+    "main.e87681ca.js.map": "/My-Data-Analyst-Portfolio/static/js/main.e87681ca.js.map",
     "453.1c10c86a.chunk.js.map": "/My-Data-Analyst-Portfolio/static/js/453.1c10c86a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d9fc4e9.css",
-    "static/js/main.97fbcf2e.js"
+    "static/js/main.e87681ca.js"
   ]
 }
