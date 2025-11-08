@@ -76,7 +76,7 @@ export const Projects = () => {
                       </Tab.Pane>
                       <Tab.Pane eventKey="third">
                         <p>
-                          I manage the administration of the Enablon System Security Module, including access management, permissions, and notifications. 
+                          Managing the administration of the Enablon System Security Module, including access management, permissions, and notifications. 
                           I collaborate with stakeholders to assess and implement new fields, organize trainings, and provide guidance on reporting and 
                           reviewing security incidents. My focus is on ensuring data quality and enabling meaningful insights through effective data visualization.
                         </p>

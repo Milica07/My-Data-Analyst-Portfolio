@@ -37,7 +37,7 @@ export const Skills = () => {
               <p>
                 These are my main professional responsibilities and the skills I apply in my role.<br />
                 I support Corporate Security processes from the IT tools perspective and contribute to data-driven 
-                insights through data visualization, platform coordination, system administration, and tool ownership.              </p>
+                insights through data analyutics and visualization.              </p>
               <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                 <div className="item">
                   <img src={meter1} alt="Dashboards" />

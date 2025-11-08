@@ -18,7 +18,7 @@ export const Contact = () => {
     "Enablon Security Module Administration": [
       "Manage user accounts and configure permissions to maintain secure system access.",
       "Create, maintain, and monitor system notifications to ensure compliance and timely actions.",
-      "Implement new data fields and system enhancements to improve data accuracy, integrity, and reporting capabilities.",
+      "Define and prioritize requirements for new data fields and system enhancements to support improved data accuracy, integrity, and reporting.",
       "Lead training initiatives for new and existing users to enhance adoption, understanding, and effective use of system features."
     ],
     "Professional Attributes": [
