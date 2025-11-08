@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/My-Data-Analyst-Portfolio/static/css/main.5d9fc4e9.css",
-    "main.js": "/My-Data-Analyst-Portfolio/static/js/main.bcde9245.js",
+    "main.js": "/My-Data-Analyst-Portfolio/static/js/main.c058236a.js",
     "static/js/453.1c10c86a.chunk.js": "/My-Data-Analyst-Portfolio/static/js/453.1c10c86a.chunk.js",
+    "static/media/project-img1.png": "/My-Data-Analyst-Portfolio/static/media/project-img1.f03db107caf27d9c3a87.png",
     "static/media/color-sharp.png": "/My-Data-Analyst-Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/My-Data-Analyst-Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/project-img3.png": "/My-Data-Analyst-Portfolio/static/media/project-img3.00461e95e5eb6ba89af1.png",
-    "static/media/project-img2.png": "/My-Data-Analyst-Portfolio/static/media/project-img2.3de965fa4fd04828da35.png",
-    "static/media/project-img1.png": "/My-Data-Analyst-Portfolio/static/media/project-img1.f21714cd989920692240.png",
+    "static/media/project-img2.png": "/My-Data-Analyst-Portfolio/static/media/project-img2.9732ad4c52b774f01c21.png",
+    "static/media/project-img3.png": "/My-Data-Analyst-Portfolio/static/media/project-img3.b7c532d9c95d4e3d7304.png",
     "static/media/banner-bg.png": "/My-Data-Analyst-Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/CentraNo2-Bold.ttf": "/My-Data-Analyst-Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/My-Data-Analyst-Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -27,11 +27,11 @@
     "static/media/arrow2.svg": "/My-Data-Analyst-Portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/My-Data-Analyst-Portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.5d9fc4e9.css.map": "/My-Data-Analyst-Portfolio/static/css/main.5d9fc4e9.css.map",
-    "main.bcde9245.js.map": "/My-Data-Analyst-Portfolio/static/js/main.bcde9245.js.map",
+    "main.c058236a.js.map": "/My-Data-Analyst-Portfolio/static/js/main.c058236a.js.map",
     "453.1c10c86a.chunk.js.map": "/My-Data-Analyst-Portfolio/static/js/453.1c10c86a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d9fc4e9.css",
-    "static/js/main.bcde9245.js"
+    "static/js/main.c058236a.js"
   ]
 }
